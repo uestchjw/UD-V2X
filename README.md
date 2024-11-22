@@ -9,3 +9,5 @@ Please visit [CoAlign](https://github.com/yifanlu0227/CoAlign) for details.
 ### Localization Error
 
 Since our work has not been accepted yet, please contact us (haojiuwu2022@ia.ac.cn) if you would like a checkpoint. 
+## Acknowledgement
+Thanks to [OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD) and [CoAlign](https://github.com/yifanlu0227/CoAlign) for the codebase.
